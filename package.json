@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pankajpreet/learn-ts#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.6.1",
+    "typescript": "^5.4.5"
   }
 }
